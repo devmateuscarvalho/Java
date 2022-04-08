@@ -1,0 +1,10 @@
+.center-div {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* gap: 5px; */
+}
+
+.card {
+    margin-top: 10px;
+}
